@@ -16,7 +16,7 @@
 A equipe foi composta por:
 
 + Prof responsável: [Diogo Soares]
-+ Frontend:
++ Frontend:[Diego B. de Paula]
 + Backend:
 + Relatório e testes:
 + DNS settings:
@@ -47,5 +47,6 @@ Diagrama da solução final proposta pelos alunos:
 
    [enunciado]: https://github.com/diogosm/MackenzieBar/blob/master/TP1___Redes%20(3).pdf
    [Diogo Soares]: https://github.com/diogosm
+   [Diego B. de Paula]: https://github.com/diegobpaula
    [exemplo1]: https://github.com/diogosm/MackenzieBar/tree/master/exemplo_professor
    [exemplo2]: https://github.com/diogosm/MackenzieBar/tree/master/exemplo_professor
